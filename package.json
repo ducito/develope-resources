@@ -1,0 +1,19 @@
+{
+  "name": "develope-resources",
+  "version": "1.0.0",
+  "description": "A huge collection of develop resources.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ducito/develope-resources.git"
+  },
+  "author": "ducito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ducito/develope-resources/issues"
+  },
+  "homepage": "https://github.com/ducito/develope-resources#readme"
+}
